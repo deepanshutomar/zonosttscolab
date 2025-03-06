@@ -17,7 +17,7 @@ Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 20
 
 ## Try Zonos-v0.1 on Google Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kJa9tYh_JlUbb7X9ZabcghJoc6-Fp5FJ?usp=sharing)
 
 Click the button above to run Zonos-v0.1 in Google Colab and experiment with its capabilities.
 
